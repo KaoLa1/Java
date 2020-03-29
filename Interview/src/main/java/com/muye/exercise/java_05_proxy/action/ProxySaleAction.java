@@ -1,9 +1,9 @@
 package com.muye.exercise.java_05_proxy.action;
 
 
-import java_05_proxy.proxyclass.ProxyBoss;
-import java_05_proxy.service.IBoss;
-import java_05_proxy.service.impl.Boss;
+import com.muye.exercise.java_05_proxy.proxyclass.ProxyBoss;
+import com.muye.exercise.java_05_proxy.service.IBoss;
+import com.muye.exercise.java_05_proxy.service.impl.Boss;
 import org.junit.Test;
 
 

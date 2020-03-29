@@ -2,8 +2,9 @@ package com.muye.exercise.java_02_blockingqueue.main;
 
 
 
-import java_02_blockingqueue.consumer.Consumer;
-import java_02_blockingqueue.producer.Producer;
+
+import com.muye.exercise.java_02_blockingqueue.consumer.Consumer;
+import com.muye.exercise.java_02_blockingqueue.producer.Producer;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;

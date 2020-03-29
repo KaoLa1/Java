@@ -1,4 +1,14 @@
-package com.muye.interview;
+package com.muye.interview.base;
+
+/**
+ * @author gwh
+ */
+public class StaticIniBlockOrderTest {
+
+    public static void main(String[] args) {
+        new Child();//语句(*)
+    }
+}
 
 class Parent {
     static String name = "hello";
@@ -32,9 +42,3 @@ class Child extends Parent {
     }
 }
 
-public class StaticIniBlockOrderTest {
-
-    public static void main(String[] args) {
-        new Child();//语句(*)
-    }
-}

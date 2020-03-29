@@ -1,7 +1,7 @@
 package com.muye.exercise.java_05_proxy.service.impl;
 
 
-import java_05_proxy.service.IBoss;
+import com.muye.exercise.java_05_proxy.service.IBoss;
 
 /**
  * 实现了卖衣服的接口
@@ -10,6 +10,7 @@ import java_05_proxy.service.IBoss;
  *
  */
 public class Boss implements IBoss {
+	@Override
 	public int yifu(String size){
 		System.err.println("天猫小强旗舰店，老板给客户发快递----衣服型号："+size);
 		//这件衣服的价钱，从数据库读取

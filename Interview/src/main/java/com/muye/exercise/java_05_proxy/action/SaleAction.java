@@ -1,8 +1,8 @@
 package com.muye.exercise.java_05_proxy.action;
 
 
-import java_05_proxy.service.IBoss;
-import java_05_proxy.service.impl.Boss;
+import com.muye.exercise.java_05_proxy.service.IBoss;
+import com.muye.exercise.java_05_proxy.service.impl.Boss;
 import org.junit.Test;
 
 public class SaleAction {
@@ -14,7 +14,8 @@ public class SaleAction {
 	public void saleByBossSelf() throws Exception {
 		IBoss boss = new Boss();
 		System.out.println("老板自营！");
-		int money = boss.yifu("xxl");// 老板自己卖衣服，不需要客服，结果就是没有聊天记录
+		// 老板自己卖衣服，不需要客服，结果就是没有聊天记录
+		int money = boss.yifu("xxl");
 		System.out.println("衣服成交价：" + money);
 	}
 }

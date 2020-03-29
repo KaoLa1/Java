@@ -1,31 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14b2b907-9841-437e-8745-d722e28d1252" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="14b2b907-9841-437e-8745-d722e28d1252" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/DirecrBufferMemoryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/GCOverHeadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/JavaHeapSpaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/MetaSpaceOOMDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/NewWeekHashDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/PhantomReferenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/ReferenceQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/SoftReferenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/StackOverFlowErrorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/WeakReferenceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_02_blockingqueue/main/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_02_blockingqueue/main/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_05_proxy/action/ProxySaleAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_05_proxy/action/ProxySaleAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_05_proxy/action/SaleAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_05_proxy/action/SaleAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_05_proxy/service/impl/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_05_proxy/service/impl/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/interview/StaticIniBlockOrderTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf />
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="interview191219" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/threadpool/ExecutorDemo.java" />
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -38,134 +71,151 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
-    <option name="width" value="1378" />
-    <option name="height" value="780" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="interview191219" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview191219" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview191219" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview191219" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview191219" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="muye" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1Yxy41xPJka3GdhxYrq1SG8PHnN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowAnt Build.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java-Frame/SpringBoot、Mybatis/Springboot-Mybatis" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="I:\Github\Java\Interview\src\main\java\com\muye\exercise" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GCDemo">
+    <configuration name="GCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.muye.interview.jvm.GCDemo" />
+      <module name="Interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muye.interview.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCOverHeadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.muye.interview.jvm.GCOverHeadDemo" />
+      <module name="Interview" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muye.interview.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaHeapSpaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.muye.interview.jvm.JavaHeapSpaceDemo" />
+      <module name="Interview" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muye.interview.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReferenceQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.muye.interview.jvm.ReferenceQueueDemo" />
+      <module name="Interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muye.interview.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackOverFlowErrorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.muye.interview.jvm.StackOverFlowErrorDemo" />
+      <module name="Interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muye.interview.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ReferenceQueueDemo" />
+      <item itemvalue="Application.StackOverFlowErrorDemo" />
+      <item itemvalue="Application.JavaHeapSpaceDemo" />
+      <item itemvalue="Application.GCOverHeadDemo" />
+      <item itemvalue="Application.GCDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GCDemo" />
+        <item itemvalue="Application.ReferenceQueueDemo" />
+        <item itemvalue="Application.GCOverHeadDemo" />
+        <item itemvalue="Application.JavaHeapSpaceDemo" />
+        <item itemvalue="Application.StackOverFlowErrorDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -177,154 +227,100 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576722656729</updated>
-      <workItem from="1576722660478" duration="343000" />
+      <workItem from="1576722660478" duration="1484000" />
+      <workItem from="1582773218782" duration="9116000" />
+      <workItem from="1582851783195" duration="10075000" />
+      <workItem from="1582934360985" duration="3021000" />
+      <workItem from="1582937797471" duration="9158000" />
+      <workItem from="1583128871759" duration="9139000" />
+      <workItem from="1583202977180" duration="13806000" />
+      <workItem from="1583284299220" duration="716000" />
+      <workItem from="1583302370562" duration="8251000" />
+      <workItem from="1583376290726" duration="14006000" />
+      <workItem from="1583457405099" duration="10646000" />
+      <workItem from="1583563436017" duration="2589000" />
+      <workItem from="1583717493034" duration="7626000" />
+      <workItem from="1583803575826" duration="4927000" />
+      <workItem from="1583898352030" duration="9097000" />
+      <workItem from="1583976165401" duration="9119000" />
+      <workItem from="1584003931930" duration="289000" />
+      <workItem from="1584004298547" duration="1602000" />
+      <workItem from="1584062219307" duration="601000" />
+      <workItem from="1584064724018" duration="12797000" />
+      <workItem from="1584092133418" duration="1125000" />
+      <workItem from="1584150366992" duration="2053000" />
+      <workItem from="1584354084451" duration="710000" />
+      <workItem from="1584408163165" duration="749000" />
+      <workItem from="1584500932014" duration="1692000" />
+      <workItem from="1585187814846" duration="364000" />
+      <workItem from="1585189306598" duration="1194000" />
+      <workItem from="1585451195326" duration="622000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="343000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
-    <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Redis Servers" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="MyBatis Log" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="bottom" id="Tail" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="WindowStateProjectService">
+    <state x="233" y="39" key="#Notifications" timestamp="1584065583284">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="39" key="#Notifications/0.0.1280.760@0.0.1280.760" timestamp="1584065583284" />
+    <state x="233" y="39" key="#Project_Structure" timestamp="1583898669972">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="39" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1583898669972" />
+    <state x="233" y="39" key="#VisualVM_Launcher" timestamp="1584093493129">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="39" key="#VisualVM_Launcher/0.0.1280.760@0.0.1280.760" timestamp="1584093493129" />
+    <state x="96" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584086137773">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="96" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1584086137773" />
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1583908694836">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1583908694836" />
+    <state x="421" y="135" key="FileChooserDialogImpl" timestamp="1584093486755">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="421" y="135" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1584093486755" />
+    <state width="1238" height="372" key="GridCell.Tab.0.bottom" timestamp="1584514672865">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="372" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1584514672865" />
+    <state width="1238" height="372" key="GridCell.Tab.0.center" timestamp="1584514672862">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="372" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1584514672862" />
+    <state width="1238" height="372" key="GridCell.Tab.0.left" timestamp="1584514672862">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="372" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1584514672862" />
+    <state width="1238" height="372" key="GridCell.Tab.0.right" timestamp="1584514672863">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="372" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1584514672863" />
+    <state x="142" y="22" key="SettingsEditor" timestamp="1584067058609">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="142" y="22" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1584067058609" />
+    <state x="324" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1585189358084">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="324" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1585189358084" />
+    <state x="436" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583908701329">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="436" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.760@0.0.1280.760" timestamp="1583908701329" />
+    <state x="303" y="82" width="672" height="678" key="search.everywhere.popup" timestamp="1583919971571">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="303" y="82" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1583919971571" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/muye/exercise/java_05_proxy/proxyclass/ProxyBoss.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/muye/exercise/java_08_designpattern/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/muye/exercise/java_06_myserializable/SerTask.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/muye/exercise/java_03_mq/queue/ConsumerTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/thredlock/MyTryLock.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/muye/exercise/java_02_blockingqueue/producer/Producer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/muye/exercise/java_08_designpattern/LazySingleton.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/muye/exercise/java_03_jvm/demo/TestDeadThread.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/muye/exercise/java_08_designpattern/DoubleChecked.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/threadpool/ExecutorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>scala-sdk-2.11.10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.29089028" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
 </project>
