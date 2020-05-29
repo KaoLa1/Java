@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14b2b907-9841-437e-8745-d722e28d1252" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/DirecrBufferMemoryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/GCOverHeadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/JavaHeapSpaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/MetaSpaceOOMDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/NewWeekHashDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/PhantomReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/ReferenceQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/SoftReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/StackOverFlowErrorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/interview/jvm/WeakReferenceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_02_blockingqueue/main/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_02_blockingqueue/main/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_05_proxy/action/ProxySaleAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_05_proxy/action/ProxySaleAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_05_proxy/action/SaleAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_05_proxy/action/SaleAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_05_proxy/service/impl/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_05_proxy/service/impl/Boss.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/interview/StaticIniBlockOrderTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +233,8 @@
       <workItem from="1584500932014" duration="1692000" />
       <workItem from="1585187814846" duration="364000" />
       <workItem from="1585189306598" duration="1194000" />
-      <workItem from="1585451195326" duration="622000" />
+      <workItem from="1585451195326" duration="627000" />
+      <workItem from="1585531019768" duration="126000" />
     </task>
     <servers />
   </component>
