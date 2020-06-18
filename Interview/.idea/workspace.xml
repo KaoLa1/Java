@@ -2,7 +2,112 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14b2b907-9841-437e-8745-d722e28d1252" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/DesignPatterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/anemia1model/VirtualWalletBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/anemia1model/VirtualWalletService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/anemia1model/VirtualWalletTransactionEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/congestion1model/VirtualWallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/congestion1model/VirtualWalletEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/congestion1model/VirtualWalletRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/congestion1model/VirtualWalletService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/congestion1model/VirtualWalletTransactionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/abstract1class/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/abstract1class/MessageQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/abstract1class/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/cycle1control/AutoIncremnetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/cycle1control/CycleControlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/polymorphism/polymorphism01/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/polymorphism/polymorphism01/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/polymorphism/polymorphism01/SortedDynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/polymorphism/polymorphism02/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/polymorphism/polymorphism03/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/polymorphism/polymorphism03/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/polymorphism/polymorphism03/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_09_static/Dome_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_09_static/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/model/anemia1model/VirtualWalletBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/model/anemia1model/VirtualWalletService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/model/anemia1model/VirtualWalletTransactionEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/model/congestion1model/VirtualWallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/model/congestion1model/VirtualWalletEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/model/congestion1model/VirtualWalletRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/model/congestion1model/VirtualWalletService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/model/congestion1model/VirtualWalletTransactionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/threadpool/ExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/threadpool/ThreadPoolWithRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/threadpool/ThreadPoolWithcallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thredlock/MyInterruptibly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thredlock/MyLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thredlock/MyReentrantReadWriteLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thredlock/MySynchronizedReadWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thredlock/MyTryLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/muye/Snippet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/.idea/Utils.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/ConvertToHtml.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/thread/ThreadDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread/ThreadDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/thread/ThreadDemo10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread/ThreadDemo10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/thread/ThreadDemo11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread/ThreadDemo11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/thread/ThreadDemo12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread/ThreadDemo12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/thread/ThreadDemo13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread/ThreadDemo13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/thread/ThreadDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread/ThreadDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/thread/ThreadDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread/ThreadDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/thread/ThreadDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread/ThreadDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/thread/ThreadDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread/ThreadDemo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/thread/ThreadDemo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread/ThreadDemo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/thread/ThreadDemo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread/ThreadDemo7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/thread/ThreadDemo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread/ThreadDemo8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_01_thread/thread/ThreadDemo9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread/ThreadDemo9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_09_base/AA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_09_base/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_09_static/StaticCodeBlockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/Input1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/Input12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/Output.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/Output1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/Output12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/Res.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/Res1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/Res12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/SaleTicket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/SaleTicket1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/SaleTicket2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/SaleTicket4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/SaleTicket5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/SaleTicket6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/SaleTicket7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/StopThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/ThreadDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/ThreadDemo10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/ThreadDemo11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/ThreadDemo12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/ThreadDemo13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/ThreadDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/ThreadDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/ThreadDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/ThreadDemo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/ThreadDemo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/ThreadDemo7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/ThreadDemo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_01_thread/thread/ThreadDemo9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_09_base/AA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_09_base/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/interview/jvm/GCDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/muye/interview/jvm/GCDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +116,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="433" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -33,6 +141,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -58,39 +167,58 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Yxy41xPJka3GdhxYrq1SG8PHnN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowAnt Build.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java-Frame/SpringBoot、Mybatis/Springboot-Mybatis" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Utils" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.muye.thread" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.muye.model.anemia1model" />
+      <recent name="com.muye.model" />
+      <recent name="com.muye.class1.abstract1class" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="I:\Github\Java\Interview\src\main\java\com\muye\exercise" />
+      <recent name="I:\Github\Java\Interview\src\main\java\utils" />
+      <recent name="I:\Github\Java\Interview\src\main\java\com\muye" />
+      <recent name="I:\Github\Java\Interview\src\main\java\com\muye\thread\threadpool" />
+      <recent name="I:\Github\Java\Interview\src\main\java\com\muye\thread" />
+      <recent name="I:\Github\Java\Interview\src\main\java\com\muye\thread\thredlock" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GCDemo">
-    <configuration name="GCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.muye.interview.jvm.GCDemo" />
+  <component name="RunManager" selected="Application.Snippet">
+    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.muye.class1.polymorphism.polymorphism03.Animal" />
       <module name="Interview" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.muye.interview.jvm.*" />
+          <option name="PATTERN" value="com.muye.class1.polymorphism.polymorphism03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,41 +226,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCOverHeadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.muye.interview.jvm.GCOverHeadDemo" />
-      <module name="Interview" />
-      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.muye.interview.jvm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaHeapSpaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.muye.interview.jvm.JavaHeapSpaceDemo" />
-      <module name="Interview" />
-      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.muye.interview.jvm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReferenceQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.muye.interview.jvm.ReferenceQueueDemo" />
+    <configuration name="DynamicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.muye.class1.polymorphism.polymorphism01.DynamicArray" />
       <module name="Interview" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.muye.interview.jvm.*" />
+          <option name="PATTERN" value="com.muye.class1.polymorphism.polymorphism01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,13 +240,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackOverFlowErrorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.muye.interview.jvm.StackOverFlowErrorDemo" />
+    <configuration name="Snippet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.muye.Snippet" />
       <module name="Interview" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.muye.interview.jvm.*" />
+          <option name="PATTERN" value="utils.muye.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,6 +256,40 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoIncremnetTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muye.class1.cycle1control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.muye.class1.cycle1control" />
+      <option name="MAIN_CLASS_NAME" value="com.muye.class1.cycle1control.AutoIncremnetTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Snippet.formatHtml" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.muye.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utils.muye" />
+      <option name="MAIN_CLASS_NAME" value="utils.muye.Snippet" />
+      <option name="METHOD_NAME" value="formatHtml" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -177,19 +311,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReferenceQueueDemo" />
-      <item itemvalue="Application.StackOverFlowErrorDemo" />
-      <item itemvalue="Application.JavaHeapSpaceDemo" />
-      <item itemvalue="Application.GCOverHeadDemo" />
-      <item itemvalue="Application.GCDemo" />
+      <item itemvalue="Application.DynamicArray" />
+      <item itemvalue="Application.Animal" />
+      <item itemvalue="Application.Snippet" />
+      <item itemvalue="JUnit.AutoIncremnetTest.test" />
+      <item itemvalue="JUnit.Snippet.formatHtml" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GCDemo" />
-        <item itemvalue="Application.ReferenceQueueDemo" />
-        <item itemvalue="Application.GCOverHeadDemo" />
-        <item itemvalue="Application.JavaHeapSpaceDemo" />
-        <item itemvalue="Application.StackOverFlowErrorDemo" />
+        <item itemvalue="Application.Snippet" />
+        <item itemvalue="JUnit.Snippet.formatHtml" />
+        <item itemvalue="Application.Animal" />
+        <item itemvalue="JUnit.AutoIncremnetTest.test" />
+        <item itemvalue="Application.DynamicArray" />
       </list>
     </recent_temporary>
   </component>
@@ -235,17 +369,41 @@
       <workItem from="1585189306598" duration="1194000" />
       <workItem from="1585451195326" duration="627000" />
       <workItem from="1585531019768" duration="126000" />
+      <workItem from="1591521802274" duration="640000" />
+      <workItem from="1591522593240" duration="25000" />
+      <workItem from="1591524860119" duration="3304000" />
+      <workItem from="1591577894442" duration="1013000" />
+      <workItem from="1591667315948" duration="14186000" />
+      <workItem from="1591838821206" duration="6548000" />
+      <workItem from="1591925215103" duration="4100000" />
+      <workItem from="1592010831511" duration="1197000" />
+      <workItem from="1592031688749" duration="792000" />
+      <workItem from="1592035687418" duration="179000" />
+      <workItem from="1592127849790" duration="1575000" />
+      <workItem from="1592297631296" duration="15000" />
+      <workItem from="1592297681808" duration="2732000" />
+      <workItem from="1592309579996" duration="1710000" />
+      <workItem from="1592359014229" duration="7468000" />
+      <workItem from="1592445257208" duration="3463000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="39" key="#Notifications" timestamp="1584065583284">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state x="466" y="109" key="#HTTP_Proxy" timestamp="1591864020041">
+      <screen x="0" y="0" width="2560" height="1520" />
+    </state>
+    <state x="466" y="109" key="#HTTP_Proxy/0.0.2560.1520@0.0.2560.1520" timestamp="1591864020041" />
+    <state x="466" y="78" key="#Notifications" timestamp="1591925252635">
+      <screen x="0" y="0" width="2560" height="1520" />
     </state>
     <state x="233" y="39" key="#Notifications/0.0.1280.760@0.0.1280.760" timestamp="1584065583284" />
+    <state x="466" y="78" key="#Notifications/0.0.2560.1520@0.0.2560.1520" timestamp="1591925252635" />
     <state x="233" y="39" key="#Project_Structure" timestamp="1583898669972">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -258,46 +416,104 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="96" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1584086137773" />
+    <state x="893" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1591686973967">
+      <screen x="0" y="0" width="2560" height="1520" />
+    </state>
+    <state x="893" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1520@0.0.2560.1520" timestamp="1591686973967" />
+    <state x="573" y="595" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1591841958505">
+      <screen x="0" y="0" width="2560" height="1520" />
+    </state>
+    <state x="573" y="595" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2560.1520@0.0.2560.1520" timestamp="1591841958505" />
+    <state x="853" y="541" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1591667949744">
+      <screen x="0" y="0" width="2560" height="1520" />
+    </state>
+    <state x="853" y="541" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2560.1520@0.0.2560.1520" timestamp="1591667949744" />
     <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1583908694836">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="281" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1583908694836" />
-    <state x="421" y="135" key="FileChooserDialogImpl" timestamp="1584093486755">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state x="842" y="270" key="FileChooserDialogImpl" timestamp="1592450802244">
+      <screen x="0" y="0" width="2560" height="1520" />
     </state>
     <state x="421" y="135" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1584093486755" />
-    <state width="1238" height="372" key="GridCell.Tab.0.bottom" timestamp="1584514672865">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state x="842" y="270" key="FileChooserDialogImpl/0.0.2560.1520@0.0.2560.1520" timestamp="1592450802244" />
+    <state width="2474" height="393" key="GridCell.Tab.0.bottom" timestamp="1592449317323">
+      <screen x="0" y="0" width="2560" height="1520" />
     </state>
     <state width="1238" height="372" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1584514672865" />
-    <state width="1238" height="372" key="GridCell.Tab.0.center" timestamp="1584514672862">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="2474" height="393" key="GridCell.Tab.0.bottom/0.0.2560.1520@0.0.2560.1520" timestamp="1592449317323" />
+    <state width="2474" height="393" key="GridCell.Tab.0.center" timestamp="1592449317323">
+      <screen x="0" y="0" width="2560" height="1520" />
     </state>
     <state width="1238" height="372" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1584514672862" />
-    <state width="1238" height="372" key="GridCell.Tab.0.left" timestamp="1584514672862">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="2474" height="393" key="GridCell.Tab.0.center/0.0.2560.1520@0.0.2560.1520" timestamp="1592449317323" />
+    <state width="2474" height="393" key="GridCell.Tab.0.left" timestamp="1592449317323">
+      <screen x="0" y="0" width="2560" height="1520" />
     </state>
     <state width="1238" height="372" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1584514672862" />
-    <state width="1238" height="372" key="GridCell.Tab.0.right" timestamp="1584514672863">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="2474" height="393" key="GridCell.Tab.0.left/0.0.2560.1520@0.0.2560.1520" timestamp="1592449317323" />
+    <state width="2474" height="393" key="GridCell.Tab.0.right" timestamp="1592449317323">
+      <screen x="0" y="0" width="2560" height="1520" />
     </state>
     <state width="1238" height="372" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1584514672863" />
-    <state x="142" y="22" key="SettingsEditor" timestamp="1584067058609">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="2474" height="393" key="GridCell.Tab.0.right/0.0.2560.1520@0.0.2560.1520" timestamp="1592449317323" />
+    <state width="2474" height="338" key="GridCell.Tab.1.bottom" timestamp="1592446450094">
+      <screen x="0" y="0" width="2560" height="1520" />
+    </state>
+    <state width="2474" height="338" key="GridCell.Tab.1.bottom/0.0.2560.1520@0.0.2560.1520" timestamp="1592446450094" />
+    <state width="2474" height="338" key="GridCell.Tab.1.center" timestamp="1592446450094">
+      <screen x="0" y="0" width="2560" height="1520" />
+    </state>
+    <state width="2474" height="338" key="GridCell.Tab.1.center/0.0.2560.1520@0.0.2560.1520" timestamp="1592446450094" />
+    <state width="2474" height="338" key="GridCell.Tab.1.left" timestamp="1592446450094">
+      <screen x="0" y="0" width="2560" height="1520" />
+    </state>
+    <state width="2474" height="338" key="GridCell.Tab.1.left/0.0.2560.1520@0.0.2560.1520" timestamp="1592446450094" />
+    <state width="2474" height="338" key="GridCell.Tab.1.right" timestamp="1592446450094">
+      <screen x="0" y="0" width="2560" height="1520" />
+    </state>
+    <state width="2474" height="338" key="GridCell.Tab.1.right/0.0.2560.1520@0.0.2560.1520" timestamp="1592446450094" />
+    <state x="343" y="70" key="Maven.ArtifactSearchDialog" timestamp="1591842719077">
+      <screen x="0" y="0" width="2560" height="1520" />
+    </state>
+    <state x="343" y="70" key="Maven.ArtifactSearchDialog/0.0.2560.1520@0.0.2560.1520" timestamp="1591842719077" />
+    <state x="579" y="163" key="NewModule_or_Project.wizard" timestamp="1592031797277">
+      <screen x="0" y="0" width="2560" height="1520" />
+    </state>
+    <state x="579" y="163" key="NewModule_or_Project.wizard/0.0.2560.1520@0.0.2560.1520" timestamp="1592031797277" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1592376104524">
+      <screen x="0" y="0" width="2560" height="1520" />
     </state>
     <state x="142" y="22" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1584067058609" />
-    <state x="324" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1585189358084">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state x="249" y="0" key="SettingsEditor/0.0.2560.1520@0.0.2560.1520" timestamp="1592376104524" />
+    <state x="648" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1592445800182">
+      <screen x="0" y="0" width="2560" height="1520" />
     </state>
     <state x="324" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1585189358084" />
+    <state x="648" y="408" key="com.intellij.ide.util.TipDialog/0.0.2560.1520@0.0.2560.1520" timestamp="1592445800182" />
     <state x="436" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583908701329">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="436" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.760@0.0.1280.760" timestamp="1583908701329" />
+    <state x="13" y="0" key="new project wizard" timestamp="1591927724695">
+      <screen x="0" y="0" width="2560" height="1520" />
+    </state>
+    <state x="13" y="0" key="new project wizard/0.0.2560.1520@0.0.2560.1520" timestamp="1591927724695" />
     <state x="303" y="82" width="672" height="678" key="search.everywhere.popup" timestamp="1583919971571">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="303" y="82" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1583919971571" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/muye/Snippet.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
