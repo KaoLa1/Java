@@ -11,9 +11,11 @@ j2se 模块练习 以及 面试代码
 ## java8
 java8 新特性练习
 
+## JavaUtils
+java工具类
+
 ## Redis
 Redis相关
 
-## Utils
-java工具类
+
 
