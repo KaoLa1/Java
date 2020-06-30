@@ -1,15 +1,12 @@
 package com.muye.utils;
 
-import org.apache.commons.lang3.StringUtils;
 
 import java.io.UnsupportedEncodingException;
 import java.util.HashMap;
 import java.util.Map;
 
-public class StringUtil
-{
-    public static String strTo16(String s)
-    {
+public class StringUtil {
+    public static String strTo16(String s) {
         String str = "";
         for (int i = 0; i < s.length(); ++i) {
             int ch = s.charAt(i);
@@ -29,46 +26,49 @@ public class StringUtil
         int flowCode = 123;
         Map map = new HashMap();
         map.put("flowCode", Integer.valueOf(flowCode));
-        int value = ((Integer)map.get("flowCode")).intValue();
+        int value = ((Integer) map.get("flowCode")).intValue();
         System.out.println(value);
     }
 
     public String Chinese2UTF_8(String chineseStr)
-            throws Exception
-    {
+            throws Exception {
         StringBuffer utf8Str = new StringBuffer();
         byte[] utf8Decode = chineseStr.getBytes("utf-8");
-        byte[] arrayOfByte1 = utf8Decode; int i = arrayOfByte1.length; for (int j = 0; j < i; ++j) { byte b = arrayOfByte1[j];
-        utf8Str.append(Integer.toHexString(b & 0xFF)); }
+        byte[] arrayOfByte1 = utf8Decode;
+        int i = arrayOfByte1.length;
+        for (int j = 0; j < i; ++j) {
+            byte b = arrayOfByte1[j];
+            utf8Str.append(Integer.toHexString(b & 0xFF));
+        }
         return utf8Str.toString().toUpperCase();
     }
 
-    public static String Chinese2GBK(String chineseStr) throws Exception
-    {
+    public static String Chinese2GBK(String chineseStr) throws Exception {
         StringBuffer GBKStr = new StringBuffer();
         byte[] GBKDecode = chineseStr.getBytes("gbk");
-        byte[] arrayOfByte1 = GBKDecode; int i = arrayOfByte1.length; for (int j = 0; j < i; ++j) { byte b = arrayOfByte1[j];
-        GBKStr.append(Integer.toHexString(b & 0xFF)); }
+        byte[] arrayOfByte1 = GBKDecode;
+        int i = arrayOfByte1.length;
+        for (int j = 0; j < i; ++j) {
+            byte b = arrayOfByte1[j];
+            GBKStr.append(Integer.toHexString(b & 0xFF));
+        }
         return GBKStr.toString();
     }
 
-    public String GBK2Chinese(String GBKStr) throws Exception
-    {
+    public String GBK2Chinese(String GBKStr) throws Exception {
         byte[] b = HexString2Bytes(GBKStr);
         String chineseStr = new String(b, "gbk");
         return chineseStr;
     }
 
-    public byte[] HexString2Bytes(String hexStr)
-    {
+    public byte[] HexString2Bytes(String hexStr) {
         byte[] b = new byte[hexStr.length() / 2];
         for (int i = 0; i < b.length; ++i)
-            b[i] = (byte)Integer.parseInt(hexStr.substring(2 * i, 2 * i + 2), 16);
+            b[i] = (byte) Integer.parseInt(hexStr.substring(2 * i, 2 * i + 2), 16);
         return b;
     }
 
-    public static final String bytesToHexString(byte[] byteArray)
-    {
+    public static final String bytesToHexString(byte[] byteArray) {
         StringBuffer hexStr = new StringBuffer(byteArray.length * 2);
         for (int i = 0; i < byteArray.length; ++i) {
             String sTemp = Integer.toHexString(0xFF & byteArray[i]);
@@ -99,7 +99,7 @@ public class StringUtil
         return "";
     }
 
-    public static boolean isEmpty(String s){
+    public static boolean isEmpty(String s) {
         if (null == s || "".equals(s) || "".equals(s.trim()) || "null".equalsIgnoreCase(s)) {
             return true;
         } else {

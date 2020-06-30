@@ -1,4 +1,4 @@
-package com.muye.interview.collection;
+package com.muye.collection;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;

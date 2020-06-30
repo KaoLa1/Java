@@ -6,7 +6,7 @@ import org.jsoup.nodes.Document;
 
 import java.util.regex.Pattern;
 
-public class Snippet {
+public class Demo1 {
 
     public static String formatHtml(String html) {
 
