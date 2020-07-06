@@ -2,39 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14b2b907-9841-437e-8745-d722e28d1252" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/DoubleChecked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/EnumSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/HSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/IdGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/LazySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/hash1equals/DemoConflictTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/hash1equals/DemoNormalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/hash1equals/DemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/hashmap/HashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/collection/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/collection/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/collection/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/cas/AtomicReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/cas/CASDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread01/Thread_000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/thread/thread01/Thread_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/anemia1model/VirtualWalletBo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/anemia1model/VirtualWalletService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/anemia1model/VirtualWalletTransactionEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/congestion1model/VirtualWallet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/congestion1model/VirtualWalletEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/congestion1model/VirtualWalletRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/congestion1model/VirtualWalletService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/src/main/java/model/congestion1model/VirtualWalletTransactionRepository.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/interview/collection/ContainNoSafeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/collection/ContainNoSafeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/muye/Snippet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/muye/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/muye/Snippet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaUtils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaUtils/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaUtils/src/main/java/com/muye/utils/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaUtils/src/main/java/com/muye/utils/StringUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaUtils/src/main/java/com/muye/utils/StringUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/class1/abstract1class/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/abstract1class/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_08_designpattern/DoubleChecked.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_08_designpattern/HSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_08_designpattern/LazySingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_08_designpattern/Singleton.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -325,7 +298,8 @@
       <workItem from="1593401745596" duration="1927000" />
       <workItem from="1593411428955" duration="5845000" />
       <workItem from="1593478734047" duration="6018000" />
-      <workItem from="1593505134795" duration="230000" />
+      <workItem from="1593505134795" duration="1168000" />
+      <workItem from="1593998567034" duration="1420000" />
     </task>
     <servers />
   </component>
@@ -356,10 +330,10 @@
       <screen x="0" y="0" width="2560" height="1520" />
     </state>
     <state x="853" y="541" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2560.1520@0.0.2560.1520" timestamp="1591667949744" />
-    <state x="842" y="270" key="FileChooserDialogImpl" timestamp="1592472479252">
+    <state x="842" y="270" key="FileChooserDialogImpl" timestamp="1593506965091">
       <screen x="0" y="0" width="2560" height="1520" />
     </state>
-    <state x="842" y="270" key="FileChooserDialogImpl/0.0.2560.1520@0.0.2560.1520" timestamp="1592472479252" />
+    <state x="842" y="270" key="FileChooserDialogImpl/0.0.2560.1520@0.0.2560.1520" timestamp="1593506965091" />
     <state width="2474" height="205" key="GridCell.Tab.0.bottom" timestamp="1593181590664">
       <screen x="0" y="0" width="2560" height="1520" />
     </state>
@@ -409,10 +383,10 @@
     </state>
     <state x="324" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1585189358084" />
     <state x="648" y="408" key="com.intellij.ide.util.TipDialog/0.0.2560.1520@0.0.2560.1520" timestamp="1593479015930" />
-    <state x="13" y="0" key="new project wizard" timestamp="1591927724695">
+    <state x="13" y="0" key="new project wizard" timestamp="1593506976305">
       <screen x="0" y="0" width="2560" height="1520" />
     </state>
-    <state x="13" y="0" key="new project wizard/0.0.2560.1520@0.0.2560.1520" timestamp="1591927724695" />
+    <state x="13" y="0" key="new project wizard/0.0.2560.1520@0.0.2560.1520" timestamp="1593506976305" />
     <state x="379" y="563" key="svn.passwordDialog" timestamp="1592472561748">
       <screen x="0" y="0" width="2560" height="1520" />
     </state>

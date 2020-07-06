@@ -32,7 +32,10 @@ public abstract class Logger {
     }
 
     protected abstract void doLog(Level level, String message) throws IOException;
+
 }
+
+
 
 
 /**
