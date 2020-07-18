@@ -2,12 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14b2b907-9841-437e-8745-d722e28d1252" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/main/java/com/pattern/struct/Source.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/main/java/com/pattern/struct/Targetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/main/java/com/pattern/struct/classAdapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/main/java/com/pattern/struct/classAdapter/AdapterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/main/java/com/pattern/struct/inter/SourceSub1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/main/java/com/pattern/struct/inter/SourceSub2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/main/java/com/pattern/struct/inter/Sourceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/main/java/com/pattern/struct/inter/Wrapper2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/main/java/com/pattern/struct/inter/WrapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/main/java/com/pattern/struct/object/AdapterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/main/java/com/pattern/struct/object/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/muye/collection/list/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Reflect/src/main/java/com.muye.reflect/itcast_01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Reflect/src/main/java/com.muye.reflect/itcast_01/ReflectDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/class1/abstract1class/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/class1/abstract1class/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_08_designpattern/DoubleChecked.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_08_designpattern/HSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_08_designpattern/LazySingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/exercise/java_08_designpattern/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/muye/collection/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/muye/collection/list/LinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Interview.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/class1/abstract1class/FileLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/muye/class1/abstract1class/FileLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/class1/abstract1class/MessageQueueLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/muye/class1/abstract1class/MessageQueueLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/design1pattern/singleton/DoubleChecked$SingletonDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/design1pattern/singleton/DoubleChecked.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/design1pattern/singleton/HSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/design1pattern/singleton/LazySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_08_designpattern/DoubleChecked.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_08_designpattern/HSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_08_designpattern/LazySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/exercise/java_08_designpattern/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/muye/interview/collection/ContainNoSafeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/Redis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/src/main/java/redis/ListMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/src/main/java/utils/RedisUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/src/test/java/redis/RedisApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/target/classes/redis/ListMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/target/classes/utils/RedisUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redis/target/test-classes/redis/RedisApp.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +127,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/muye" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -119,7 +158,7 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.DemoConflictTest">
+  <component name="RunManager" selected="JUnit.ListDemo.test1">
     <configuration name="DemoConflictTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.muye.class1.hash1equals.DemoConflictTest" />
       <module name="Interview" />
@@ -162,20 +201,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.muye.thread.thread.ThreadDemo1" />
-      <module name="Interview" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.muye.thread.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Thread_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.muye.thread.thread01.Thread_001" />
       <module name="Interview" />
@@ -192,6 +217,23 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListDemo.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muye.collection.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.muye.collection.list" />
+      <option name="MAIN_CLASS_NAME" value="com.muye.collection.list.ListDemo" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -213,19 +255,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadDemo1" />
       <item itemvalue="Application.Thread_001" />
       <item itemvalue="Application.DemoTest" />
       <item itemvalue="Application.DemoNormalTest" />
       <item itemvalue="Application.DemoConflictTest" />
+      <item itemvalue="JUnit.ListDemo.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ListDemo.test1" />
         <item itemvalue="Application.DemoConflictTest" />
         <item itemvalue="Application.DemoNormalTest" />
         <item itemvalue="Application.DemoTest" />
         <item itemvalue="Application.Thread_001" />
-        <item itemvalue="Application.ThreadDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -300,6 +342,9 @@
       <workItem from="1593478734047" duration="6018000" />
       <workItem from="1593505134795" duration="1168000" />
       <workItem from="1593998567034" duration="1420000" />
+      <workItem from="1594888931928" duration="118000" />
+      <workItem from="1594889087287" duration="38000" />
+      <workItem from="1595029125360" duration="1525000" />
     </task>
     <servers />
   </component>
@@ -334,22 +379,22 @@
       <screen x="0" y="0" width="2560" height="1520" />
     </state>
     <state x="842" y="270" key="FileChooserDialogImpl/0.0.2560.1520@0.0.2560.1520" timestamp="1593506965091" />
-    <state width="2474" height="205" key="GridCell.Tab.0.bottom" timestamp="1593181590664">
+    <state width="2474" height="331" key="GridCell.Tab.0.bottom" timestamp="1595031303834">
       <screen x="0" y="0" width="2560" height="1520" />
     </state>
-    <state width="2474" height="205" key="GridCell.Tab.0.bottom/0.0.2560.1520@0.0.2560.1520" timestamp="1593181590664" />
-    <state width="2474" height="205" key="GridCell.Tab.0.center" timestamp="1593181590664">
+    <state width="2474" height="331" key="GridCell.Tab.0.bottom/0.0.2560.1520@0.0.2560.1520" timestamp="1595031303834" />
+    <state width="2474" height="331" key="GridCell.Tab.0.center" timestamp="1595031303833">
       <screen x="0" y="0" width="2560" height="1520" />
     </state>
-    <state width="2474" height="205" key="GridCell.Tab.0.center/0.0.2560.1520@0.0.2560.1520" timestamp="1593181590664" />
-    <state width="2474" height="205" key="GridCell.Tab.0.left" timestamp="1593181590664">
+    <state width="2474" height="331" key="GridCell.Tab.0.center/0.0.2560.1520@0.0.2560.1520" timestamp="1595031303833" />
+    <state width="2474" height="331" key="GridCell.Tab.0.left" timestamp="1595031303833">
       <screen x="0" y="0" width="2560" height="1520" />
     </state>
-    <state width="2474" height="205" key="GridCell.Tab.0.left/0.0.2560.1520@0.0.2560.1520" timestamp="1593181590664" />
-    <state width="2474" height="205" key="GridCell.Tab.0.right" timestamp="1593181590664">
+    <state width="2474" height="331" key="GridCell.Tab.0.left/0.0.2560.1520@0.0.2560.1520" timestamp="1595031303833" />
+    <state width="2474" height="331" key="GridCell.Tab.0.right" timestamp="1595031303833">
       <screen x="0" y="0" width="2560" height="1520" />
     </state>
-    <state width="2474" height="205" key="GridCell.Tab.0.right/0.0.2560.1520@0.0.2560.1520" timestamp="1593181590664" />
+    <state width="2474" height="331" key="GridCell.Tab.0.right/0.0.2560.1520@0.0.2560.1520" timestamp="1595031303833" />
     <state width="2474" height="338" key="GridCell.Tab.1.bottom" timestamp="1592471529183">
       <screen x="0" y="0" width="2560" height="1520" />
     </state>
@@ -374,14 +419,13 @@
       <screen x="0" y="0" width="2560" height="1520" />
     </state>
     <state x="579" y="163" key="NewModule_or_Project.wizard/0.0.2560.1520@0.0.2560.1520" timestamp="1592031797277" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1592829801634">
+    <state x="311" y="0" key="SettingsEditor" timestamp="1594889046255">
       <screen x="0" y="0" width="2560" height="1520" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.2560.1520@0.0.2560.1520" timestamp="1592829801634" />
+    <state x="311" y="0" key="SettingsEditor/0.0.2560.1520@0.0.2560.1520" timestamp="1594889046255" />
     <state x="648" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1593479015930">
       <screen x="0" y="0" width="2560" height="1520" />
     </state>
-    <state x="324" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1585189358084" />
     <state x="648" y="408" key="com.intellij.ide.util.TipDialog/0.0.2560.1520@0.0.2560.1520" timestamp="1593479015930" />
     <state x="13" y="0" key="new project wizard" timestamp="1593506976305">
       <screen x="0" y="0" width="2560" height="1520" />
